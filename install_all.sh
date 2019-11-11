@@ -124,6 +124,8 @@ fi
 
 # sudo apt-get install flex texinfo help2man gawk libncurses5-dev
 # sudo apt-get install -y libtool-bin
+# 
+# sudo apt-get install build-essential gawk gcc g++ gfortran git texinfo bison libncurses-dev
 
 
 echo "Done!"
