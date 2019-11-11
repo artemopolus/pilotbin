@@ -120,5 +120,10 @@ fi
 # 	make
 # 	make install
 # fi
+# 
+
+# sudo apt-get install flex texinfo help2man gawk libncurses5-dev
+# sudo apt-get install -y libtool-bin
+
 
 echo "Done!"
