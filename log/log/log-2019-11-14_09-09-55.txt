@@ -1,0 +1,11 @@
+[2019-11-14_09-09-55] Start program
+[2019-11-14_09-09-55] Connecting Pixhawk ...
+[2019-11-14_09-09-56] Pixhawk connected
+[2019-11-14_09-09-56] Connecting Nano ...
+[2019-11-14_09-09-56] UDP connect OK
+[2019-11-14_09-09-57] Nano connected
+[2019-11-14_09-09-57] Start Pixhawk listener
+[[2019-11-14_09-09-57] Pixhawk::requestData OK
+2019-11-14_09-09-57] Can't send Heartbeat
+[2019-11-14_09-12-31] Pixhawk::SendCommand FAILED
+[2019-11-14_09-12-36] Program terminated

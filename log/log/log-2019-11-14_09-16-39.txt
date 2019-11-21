@@ -1,0 +1,9 @@
+[2019-11-14_09-16-39] Start program
+[2019-11-14_09-16-39] Connecting Pixhawk ...
+[2019-11-14_09-16-40] Pixhawk connected
+[2019-11-14_09-16-40] Connecting Nano ...
+[2019-11-14_09-16-40] UDP connect OK
+[2019-11-14_09-16-41] Nano connected
+[2019-11-14_09-16-41] Start Pixhawk listener
+[2019-11-14_09-16-41] Pixhawk::requestData OK
+[2019-11-14_09-16-54] Program terminated
